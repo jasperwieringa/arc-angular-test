@@ -1,0 +1,4 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~@arc-web/components/dist/themes/index.css';
+@import '~@arc-web/components/dist/themes/light.css';
+@import '~@arc-web/components/dist/themes/dark.css';
